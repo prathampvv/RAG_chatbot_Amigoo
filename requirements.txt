@@ -1,0 +1,9 @@
+streamlit
+langchain
+transformers
+sentence-transformers
+faiss-cpu
+torch
+accelerate
+bitsandbytes
+peft
