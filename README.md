@@ -201,7 +201,7 @@ Run 03_test_prompt.ipynb to:
 🙋‍♂️ Developer
 
 Pratham Verma
-📧 LinkedIn- [text](https://www.linkedin.com/in/prathampvv/)
+📧 LinkedIn- [https://www.linkedin.com/in/prathampvv](https://www.linkedin.com/in/prathampvv/)
 🎓 BTech CSE, VIT Vellore
 🧠 AI/ML + Backend + Data Science
 
