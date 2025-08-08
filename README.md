@@ -195,7 +195,7 @@ Run 03_test_prompt.ipynb to:
 
 
 ## 📹 Chatbot Demo
-[Watch the Chatbot Streaming Demo](assets/RAG_chatbot.mp4)
+[Watch the Chatbot Streaming Demo](https://drive.google.com/file/d/1Upj99GNR4QXRiWoHVEmp_cw-vVw-6NwK/view?usp=drive_link)
 
 
 🙋‍♂️ Developer
